@@ -14,9 +14,10 @@
 
 效果图：
 ---
-![](https://github.com/liankin/TestWebPro/blob/master/resultimage/1.png)  
-![](https://github.com/liankin/TestWebPro/blob/master/resultimage/2.png)  
-![](https://github.com/liankin/TestWebPro/blob/master/resultimage/3.png)  
-![](https://github.com/liankin/TestWebPro/blob/master/resultimage/4.png)  
-![](https://github.com/liankin/TestWebPro/blob/master/resultimage/5.png)  
-![](https://github.com/liankin/TestWebPro/blob/master/resultimage/6.png)  
+![](https://github.com/liankin/TestWebPro/blob/master/resultimg/1.png)  
+![](https://github.com/liankin/TestWebPro/blob/master/resultimg/2.png)  
+![](https://github.com/liankin/TestWebPro/blob/master/resultimg/3.png)  
+![](https://github.com/liankin/TestWebPro/blob/master/resultimg/4.png)  
+![](https://github.com/liankin/TestWebPro/blob/master/resultimg/5.png)  
+![](https://github.com/liankin/TestWebPro/blob/master/resultimg/6.png)  
+![](https://github.com/liankin/TestWebPro/blob/master/resultimg/7.png)  
